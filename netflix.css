@@ -1,0 +1,287 @@
+#netflixlogo{
+    width: 220px;
+    position: relative;
+    right: 470px;
+    bottom: 18px;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: rgb(27, 26, 26);
+    margin: 0px 0px 0px 0px;
+}
+h3{
+    font-weight: lighter;
+}
+#dropdown{
+    width:80px;
+    height:40px;
+    position: relative;
+    left:450px;
+    bottom: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: black;
+    font-size: 15px;
+
+}
+#Signin{
+    width:80px;
+    height:40px;
+    position:relative;
+    left:490px;
+    bottom: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color:red;
+    font-size: 15px;
+}
+#content{
+    margin-top: 100px;
+}
+#unlimited{
+    font-size: 60px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+#watch{
+    font-size:27px;
+    position: relative;
+    bottom: 20px;
+}
+#ready{
+    font-size: 18px;
+    font-weight:450px;
+    position: relative;
+    bottom:20px;
+}
+input[type=email]{
+    width: 450px;
+    height: 51px;
+    font-size:25px;
+}
+#Getstarted{
+    position: relative;
+    top:2px;
+    right:3px;
+    width: 200px;
+    height: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:30px;
+    color: white;
+    background-color: red;
+}
+#Enjoy{
+    font-size: 50px;
+    font-weight: bold;
+}
+#watch2{
+    font-size:27px;
+}
+#content2{
+    height: 184px;
+    width:510px;
+    position: relative;
+    left:110px;
+    top:160px;
+}
+#tv{
+    position: relative;
+    bottom:500px;
+    left:800px;
+}
+#tv1{
+    height: 500px;
+    width: 800px;
+    position: relative;
+    bottom: 30px;
+    right: 80px;
+}
+#video1{
+    position: relative;
+    right:642px;
+    bottom:222px;
+    height:225px;
+    width: 310px;
+}
+#downimage{
+    display:inline;
+
+}
+#image3{
+    height: 450px;
+    width: 600px;
+    position: relative;
+    left: 50px;
+}
+#content3{
+    height: 200;
+    width: 550px;
+    position:relative;
+    left: 820px;
+    bottom: 360px;
+}
+#download{
+    font-size: 50px;
+    font-weight: bold;
+}
+#save{
+    font-size:27px;
+}
+#content4{
+    height: 200;
+    width: 550px;
+    position: relative;
+    top:190px;
+    left: 170px;
+   
+}
+#watch3{
+    font-size: 50px;
+    font-weight: bold;
+}
+#stream{
+    font-size:27px;
+}
+
+#image4{
+    height: 450px;
+    width: 600px;
+    position: relative;
+    left: 850px;
+    bottom: 120px;
+}
+#image5{
+position: relative;
+    top:50px;
+}
+#content5{
+    height: 200;
+    width: 550px;
+    position: relative;
+    left: 840px;
+    bottom: 340px;
+
+    
+}
+#create{
+    font-size: 50px;
+    font-weight: bold;
+}
+#send{
+    font-size:27px;
+}
+#frequent{
+    font-size: 50px;
+    font-weight: bold;
+    position: relative;
+    top:60px;
+}
+.fre{
+    background-color: rgb(57, 56, 56);
+    text-align:left;
+    height: 70px;
+    width: 700px;
+    position: relative;
+    top:100px;
+    left:410px;
+    font-size: 30px;;
+}
+.fre1{
+    position: relative;
+    left:10px;
+    top:13px;
+}
+#bottom{
+    position: relative;
+    top:250px;
+}
+#fa{
+    color: rgb(55, 53, 53);
+    position: relative;
+    top:110px;
+    left:330px;
+}
+#f1{
+    color: rgb(55, 53, 53);
+    position: relative;
+    left:300px;
+    top:100px;
+   
+}
+#f2{
+    color: rgb(55, 53, 53);
+    position: relative;
+    left:470px;
+    top:11px;
+  
+}
+#f3{
+    color: rgb(55, 53, 53);
+    position: relative;
+    left:650px;
+    bottom:80px;
+}
+#f4{
+    color: rgb(55, 53, 53);
+    position: relative;
+    left:850px;
+    bottom:150px;
+}
+#first{
+    text-align: center;
+    background-image:radial-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.8)),url("netflix.jpg");
+    background-size: cover;
+    height:770px;
+    width: 100%;
+    margin: 0px 0px 10px 0px;
+}
+#second{
+    background-color:black;
+    height:500px;
+    width: 100%;
+    margin: 0px 0px 10px 0px;
+    position: relative;
+    bottom:20px;
+}
+#third{
+    background-color:black;
+    height:450px;
+    width: 100%;
+    margin: 0px 0px 10px 0px;
+    position: relative;
+    bottom: 521px;
+}
+#fourth{
+    background-color:black;
+    height:550px;
+    width: 100%;
+    margin: 0px 0px 10px 0px;
+    position: relative;
+    bottom: 540px;
+}
+#fifth{
+    background-color:black;
+    height:550px;
+    width: 100%;
+    margin: 0px 0px 10px 0px;
+    position: relative;
+    bottom: 540px;
+}
+#sixth{
+    background-color:black;
+    height:1100px;
+    width: 100%;
+    margin: 0px 0px 10px 0px;
+    position: relative;
+    bottom: 560px;
+    text-align: center;
+}
+#seventh{
+    background-color:black;
+    height:300px;
+    width: 100%;
+    margin: 0px 0px 10px 0px;
+    position: relative;
+    bottom: 565px;
+}
